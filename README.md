@@ -24,15 +24,15 @@ Instructions on how to use the project:
 
 ## Contributing
 
-If you'd like to contribute to the project, please follow these steps:
+If you'd like to contribute to the project, please follow these steps:\
 Persistence file:
 
-<?xml version="1.0" encoding="UTF-8"?>/
-<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"/
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/
-	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence/
-  http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"/
-	version="2.1">/
+<?xml version="1.0" encoding="UTF-8"?>\
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"\
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"\
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence\
+  http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"\
+	version="2.1">\
 
 	<persistence-unit name="dev">/
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>/
