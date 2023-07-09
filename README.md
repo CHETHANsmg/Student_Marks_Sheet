@@ -12,7 +12,7 @@ while students can access their individual results by entering a unique seat num
 
 Instructions on how to install and run the project:
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/CHETHANsmg/Student_Marks_Sheet.git`
 2. Install dependencies: `mysql, Hibernate, servlets`
 
 ## Usage
